@@ -1,1 +1,1 @@
-# devanagari_recognition
+# Devanagari Characters Image Recognition
